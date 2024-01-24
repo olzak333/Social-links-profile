@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+
+body{
+    
+    background-color:  hsl(0, 0%, 8%);
+    color: white;
+    font-family: 'Inter', sans-serif;
+
+
+}
+
+.main{
+    height: 470px;
+    width: 17.5%;
+    background-color: hsl(0, 0%, 12%); 
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 10px;
+    
+   
+}
+
+.avatar{
+    height: 60px;
+    border-radius: 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.github, .mentor, .linked, .twitter, .ig{
+    background-color: hsl(0, 0%, 20%);
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+    height: 35px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 11px;
+
+    
+}
+
+.adress{
+    color: hsl(75, 94%, 57%);
+    font-size: 11px;
+    font-weight: 700;
+
+
+}
+
+p{
+    font-size: 14px;
+}
+
+.name{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.role{
+    font-weight: 400;
+    font-size: 10px;
+    margin-top: 20px;
+}
+
+.github{
+    margin-top: 20px;
+}
